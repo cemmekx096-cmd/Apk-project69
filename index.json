@@ -943,10 +943,10 @@
   {
     "name": "Aniyomi: KissKH",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kisskh",
-    "apk": "aniyomi-id.kisskh-v14.1.apk",
+    "apk": "aniyomi-id.kisskh-v14.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
